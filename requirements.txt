@@ -1,0 +1,5 @@
+akshare>=1.17,<2
+baostock==0.8.9
+matplotlib>=3.8,<4
+numpy>=1.26,<3
+pandas>=2.2,<3
